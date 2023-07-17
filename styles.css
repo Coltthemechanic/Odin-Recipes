@@ -1,8 +1,13 @@
 *{
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     list-style-position: inside;
     color:blanchedalmond;
+    font-size: 24px;
 }
 *{
     background-color: black;
+}
+.unlist{
+    font-size:28px;
 }
